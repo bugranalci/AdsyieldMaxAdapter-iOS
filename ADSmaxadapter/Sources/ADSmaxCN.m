@@ -6,7 +6,7 @@
 #import "ADSmaxCN.h"
 #import <GoogleMobileAds/GoogleMobileAds.h>
 
-#define ADAPTER_VERSION @"1.0.0"
+#define ADAPTER_VERSION @"1.0.1"
 static NSString *const kAdaptiveBannerTypeInline = @"inline";
 
 #pragma mark - Forward delegate class declarations

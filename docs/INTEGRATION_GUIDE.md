@@ -116,7 +116,7 @@ ADSmaxCN: Interstitial ad loaded: ...
 
 | Adapter | AppLovin SDK | Google Mobile Ads SDK |
 |---|---|---|
-| 1.0.0 | 13.0.0+ | 12.5+ |
+| 1.0.1 | 13.0.0+ | 12.5+ |
 
 ## 9. Support
 

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ADSmaxadapter'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'AdsYield MAX custom network adapter for iOS.'
   s.description      = <<-DESC
     AdsYield MAX Mediation Adapter enables publishers using AppLovin MAX mediation
